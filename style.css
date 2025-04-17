@@ -1,0 +1,10 @@
+body{
+    background-color: blue;
+}
+.box{
+    font-weight: 800;
+    color: white;
+    text-align: center;
+    padding-top: 300px;
+    font-size: 80px;
+}
